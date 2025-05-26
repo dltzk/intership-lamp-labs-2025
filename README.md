@@ -56,4 +56,5 @@ cd deployment
 
 Когда сбилдится и запустится, можно переходить в личку бота и писать доступные команды.
 Пример вызова команд:
+
 ![Example screenshot](https://sun9-67.userapi.com/impg/nFajbp0CIrUbbc6B04kh5WMSEqjlUbRfqJifSg/bxaMqv8107A.jpg?size=261x774&quality=95&sign=8292bf7022479af8df96a258b5343929&type=album)
