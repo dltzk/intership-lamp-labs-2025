@@ -11,7 +11,7 @@ import (
 
 func main() {
 	rdb := redis.InitRedis()
-	log.Println("Redis started")
+	log.Println("Redis started!")
 
 	pref := telebot.Settings{
 		Token: os.Getenv("TELEGRAM_TOKEN"),
